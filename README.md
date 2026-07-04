@@ -17,13 +17,13 @@ This repository currently covers Week 1: Python patterns for ML work and NumPy f
 
 ```text
 .
-├── README.md
-└── Week 1 — Dev Environment + NumPy/
-    ├── python_ml_refresher.ipynb
-    ├── numpy_part_1_arrays.ipynb
-    ├── numpy_part_2_indexing.ipynb
-    ├── numpy_part_3_linear_algebra.ipynb
-    └── mini_project_image_numpy_array.ipynb
++-- README.md
++-- Week 1 — Dev Environment + NumPy/
+    +-- python_ml_refresher.ipynb
+    +-- numpy_part_1_arrays.ipynb
+    +-- numpy_part_2_indexing.ipynb
+    +-- numpy_part_3_linear_algebra.ipynb
+    +-- mini_project_image_numpy_array.ipynb
 ```
 
 ## Notebooks
@@ -129,9 +129,8 @@ The notebook performs:
 
 | Week | Topic | Status |
 | --- | --- | --- |
-| Week 1 | Dev Environment + NumPy | In progress |
+| Week 1 | Dev Environment + NumPy | Completed |
 
 ## Notes
 
 This is a learning repository, so notebooks intentionally include explanations, scratch implementations, and validation cells. The emphasis is not just using ML libraries, but understanding the array operations and mathematical building blocks that those libraries depend on.
-
